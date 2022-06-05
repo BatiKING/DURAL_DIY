@@ -1,6 +1,6 @@
 # DURAL_DIY
-## This repo holds all necessary files and list of items you need to order if you want to build a DURAL controller yourself.
-## You need to know very basics of soldering to follow this through. (only through hole components - EASY stuff)
+##This repo holds all necessary files and list of items you need to order if you want to build a DURAL controller yourself.
+##You need to know very basics of soldering to follow this through. (only through hole components - EASY stuff)
 ### List of items you need to buy, + links to online stores I used.<br>All items must be of exactly the same dimensions as mentioned here<br> I bought bulk quantities, so you might need to find other sources if it's not possible to order the amount you need from the given online store 
 
 - SparkFun Pro Micro RP2040 (the 'brain' of DURAL) - https://www.berrybase.de/neu/sparkfun-pro-micro-rp2040
@@ -17,7 +17,7 @@
 - 2 philips head screwdrivers
 - small electric drill or electric screwdriver (just for countersinking screw holes)
 - drill bit / countersink bit (something like this https://tinyurl.com/m7rvph53) (just for countersinking screw holes)
-- small €5 incandescent lighter / blowtorch (optional but recommended) (https://tinyurl.com/4dkw8ary)
+- small €5 incandescent lighter / blowtorch (optional but recommended) (https://tinyurl.com/4dkw8ary) <b> ONLY IF YOU USE ACRYLIC for the enclosure - don't use fire if you use wood or any other plastic!</b>
 
 If you don't have a drill, you could work around it by using different size screws - but I've never done that myself so can't advise what would be the right screw size
 Drill is used only to countersink the screw holes, (https://en.wikipedia.org/wiki/Countersink)
@@ -47,6 +47,7 @@ Unfortunately, I don't have any recommendations on a good service provider who c
 I have noticed that wood tends to have lower tolerances (better) - so you might want to try that. It will change the appeal of DURAL drasticly :) but wood is easier to work with, and is cheaper.
 <br>Original DURAL use CLEAR ACRYLIC enclosure.
 
+
 ### FIRMWARE
 DURAL uses GP2040 firmware (https://github.com/FeralAI/GP2040) - the latest version can be found here (https://github.com/FeralAI/GP2040/releases)
 <br> HOWEVER! I recommend using the GP2040-DURAL_v0.2.1.uf2 file found in this repo - it's the version I installed on all DURALs so far.
@@ -66,6 +67,8 @@ Installing FIRMWARE is very easy - you need to plug in your SparkFun Pro Micro R
 3. Put together
    - follow this video to put your DURAL together: https://youtu.be/T9ggDxgBBCI?t=423
    - follow this video if you need help putting the buttons together (you just slot the switches in the hot swap sockets, and put the caps on the switch): https://www.youtube.com/watch?v=nA89JoTbwQA
+4. Flame polish edges (OPTIONAL - ONLY FOR ACRYLIC ENCLOSURES)
+   - If you decided to go with acrylic, and if you feel that the edge of the plastic is a bit rough on your wrists - you can flame polish it using a small blowtorch/ incandescent lighter - to flame polish the edge, turn on your blowtorch, and move the flame through the edge of the controller - do it only one time, and don't keep the flame in one spot, keep the torch moving all the time. Check this example video on how to flame polish acrylic ( https://www.youtube.com/watch?v=Vx7MHdWXQvc ) - Take note, you don't need such big blowtorch - your acrylic element is much thinner than one seen in the video. 
 
 ### Share your results :)
 ### If you decide to build DURAL yourself, don't forget to share photos of your final build and tag DURAL on Twitter! <br> 
