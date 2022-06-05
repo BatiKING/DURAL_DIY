@@ -19,7 +19,7 @@
 - drill bit / countersink bit (something like this https://tinyurl.com/m7rvph53) (just for countersinking screw holes)
 - small €5 incandescent lighter / blowtorch (optional but recommended) (https://tinyurl.com/4dkw8ary) <b> ONLY IF YOU USE ACRYLIC for the enclosure - don't use fire if you use wood or any other plastic!</b>
 
-If you don't have a drill, you could work around it by using different size screws - but I've never done that myself so can't advise what would be the right screw size
+If you don't have a drill, you could work around it by using different size screws - but I've never done that myself so can't advise what would be the right screw size. <br>
 Drill is used only to countersink the screw holes, (https://en.wikipedia.org/wiki/Countersink)
 
 ### Items you need to have Manufactured / 3D printed / Laser cut
