@@ -1,6 +1,6 @@
 # DURAL_DIY
-##This repo holds all necessary files and list of items you need to order if you want to build a DURAL controller yourself.
-##You need to know very basics of soldering to follow this through. (only through hole components - EASY stuff)
+###This repo holds all necessary files and list of items you need to order if you want to build a DURAL controller yourself.
+###You need to know very basics of soldering to follow this through. (only through hole components - EASY stuff)
 ### List of items you need to buy, + links to online stores I used.<br>All items must be of exactly the same dimensions as mentioned here<br> I bought bulk quantities, so you might need to find other sources if it's not possible to order the amount you need from the given online store 
 
 - SparkFun Pro Micro RP2040 (the 'brain' of DURAL) - https://www.berrybase.de/neu/sparkfun-pro-micro-rp2040
